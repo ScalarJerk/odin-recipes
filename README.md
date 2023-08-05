@@ -1,2 +1,2 @@
-# dino-recipes
+# odin-recipes
 Odin Project work
